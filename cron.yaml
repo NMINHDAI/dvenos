@@ -1,0 +1,4 @@
+cron:
+- description: "call to wakeup google cloud"
+  url: /api/authenticity/123456
+  schedule: every 5 mins
